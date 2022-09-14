@@ -1,11 +1,9 @@
 ---
-title: "The N0N3 DAO homepage"
+title: "The N0N3 Fund"
 ---
-
-# THE N0N3 DAO HOMEPAGE
+# THE NONE FUND
 
 ## Introduction 
-
 
 ## Quick Access
 
@@ -28,4 +26,3 @@ title: "The N0N3 DAO homepage"
 
 ### Resources
 #### Document
-

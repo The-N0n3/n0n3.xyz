@@ -7,8 +7,12 @@
         "id": "e33fca95835aec74",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Backlog.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.5
+    "width": 177.5
   },
   "right": {
     "id": "28f94ef1aef85b14",
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Backlog.md"
+              }
             }
           }
         ]
@@ -121,5 +129,10 @@
     "collapsed": true
   },
   "active": "e33fca95835aec74",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "content/_index.md",
+    "Untitled.md",
+    "Backlog.md",
+    "Roadmap.md"
+  ]
 }
