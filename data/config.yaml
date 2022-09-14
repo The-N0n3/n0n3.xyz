@@ -1,0 +1,27 @@
+name: n0n3
+enableToc: true
+openToc: true
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: false
+GitHubLink: https://github.com/n0n3/n0n3.xyz
+enableSemanticSearch: false
+operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+description:
+  ""
+page_title:
+  ""
+links:
+  - link_name: Facebook
+    link: https://facebook.com/
+  - link_name: Twitter
+    link: https://twitter.com/
+  - link_name: Github
+    link: https://github.com/
